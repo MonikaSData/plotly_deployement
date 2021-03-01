@@ -22,4 +22,4 @@ The following webpage has been built as part of this project.
 
 **Snapshot of final webpage**
 
-![static/images/UFO_Website](static/images/UFO_Website.PNG)
+![images/Final_dashboard](images/Final_dashboard.png)
